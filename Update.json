@@ -1,8 +1,8 @@
 {
   "latest_version": "v1.0.0",
-  "version_code": 54019,
+  "version_code": 53218,
   "title": "Melolo 1",
-  "changelog": "- Melolo Version 5.4.0\n- No Update",
+  "changelog": "- Melolo Version 5.3.2\n- Bug fixes\n- Performance improvements\n- Updated to the latest version",
   "download_url": "https://t.me/+oBYmjb5Jv64xZjU1",
   "size": "67.29 MB",
   "mandatory": false
